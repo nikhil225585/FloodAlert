@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "685615313881",
+    "firebase_url": "https://nikhil-kumar-veldanda.firebaseio.com",
+    "project_id": "nikhil-kumar-veldanda",
+    "storage_bucket": "nikhil-kumar-veldanda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685615313881:android:531ff9ad36bf7540",
+        "android_client_info": {
+          "package_name": "com.codingwith.nikhil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685615313881-ck1lcqr82j0cfdn6vhjlms0ogqnf052l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuNAE9_VIPS9Mxvhe3y5DwHj2FfBFOwCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
